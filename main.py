@@ -291,10 +291,6 @@ class BookApp(QWidget):
         self.pdf_path_input.clear()
         self.comments_input.clear()
 
-    def cellClicked(self, row, column):
-        # Do nothing for now
-        pass
-
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
