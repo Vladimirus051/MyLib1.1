@@ -1,9 +1,9 @@
 # MyLib1.1
-The app allows users to add books to their library, mark them as read or unread, and rate them. Application Features:
-
--Adding/deleting a book
--The ability to leave comments
--View the added books
+The app allows users to add books to their library, mark them as read or unread, and rate them. 
+Application Features:
+- Adding/deleting a book
+- The ability to leave comments
+- View the added books
 
 You can use the command to **quickly install** all required dependencies:
 
