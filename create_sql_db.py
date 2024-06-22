@@ -4,7 +4,7 @@ import sqlite3
 connection = sqlite3.connect('my_lib.db')
 cursor = connection.cursor()
 
-# Обновляем таблицу books, добавляя новое поле comments
+
 cursor.execute('''
 CREATE TABLE IF NOT EXISTS books (
     id INTEGER PRIMARY KEY,
