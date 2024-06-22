@@ -10,4 +10,4 @@ You can use the command to **quickly install** all required dependencies:
 `pip install -r requirements.txt`
 
 Below is a link to the presentation and a text file for this project:
-https://drive.google.com/drive/folders/17FY_fmpn_kC9tHmlYLkAI8Ear5YU0Hh5?usp=drive_link
+https://drive.google.com/drive/folders/1RulTJGz2PEhiNuWZv8by9vfcJiQ0kGBp
